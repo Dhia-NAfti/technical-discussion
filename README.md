@@ -16,3 +16,7 @@ This is a good and optimized [code](https://gist.github.com/Dhia-NAfti/3f32d3e88
 ### Colab Example
 
 This is the [notebook](https://github.com/Dhia-NAfti/technical-discussion/blob/main/technical_docs.ipynb)
+
+
+### Image
+[Screen shot](https://github.com/Dhia-NAfti/technical-discussion/issues/1)
