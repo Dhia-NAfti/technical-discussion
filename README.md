@@ -20,3 +20,4 @@ This is the [notebook](https://github.com/Dhia-NAfti/technical-discussion/blob/m
 
 ### Image
 [Screen shot](https://github.com/user-attachments/assets/ffec2136-a6e4-498a-93ea-8a1744c11446)
+![Screen Shot](https://github.com/Dhia-NAfti/technical-discussion/issues/2)
