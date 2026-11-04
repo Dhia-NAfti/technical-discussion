@@ -19,4 +19,4 @@ This is the [notebook](https://github.com/Dhia-NAfti/technical-discussion/blob/m
 
 
 ### Image
-[Screen shot](<img width="465" height="218" alt="Image" src="https://github.com/user-attachments/assets/ffec2136-a6e4-498a-93ea-8a1744c11446" />)
+[Screen shot](https://github.com/user-attachments/assets/ffec2136-a6e4-498a-93ea-8a1744c11446)
